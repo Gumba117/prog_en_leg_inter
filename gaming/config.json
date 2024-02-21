@@ -1,0 +1,8 @@
+{
+  "files.autoSave": "onFocusChange",
+  "workbench.colorTheme": "Monokai Classic",
+  "editor.wordWrap": "on",
+  "workbench.iconTheme": "Monokai Classic Icons",
+  "editor.renderWhitespace": "all",
+  "editor.tabSize": 2
+}

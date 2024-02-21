@@ -1,0 +1,6 @@
+  //Copilot /Monokai/prettier/vscodepets
+
+hola mundo
+if (edad<=18) {
+  print("Mayor de edad");
+}

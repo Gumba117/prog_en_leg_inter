@@ -1,0 +1,25 @@
+pwd 
+//muestra el foco de la terminal
+touch
+//crea archivos en el foco de la terminal
+mkdir
+//crea carpetas en el foco de la terminal
+ls
+//muestra todos los documentos y carpetas en el foco
+ls -l
+//muestra los detalles de ls
+clear
+//limpia la terminal
+
+//las flechas muestran los comandos usados recientemente
+
+cd
+//cambia de directorio/foco
+cd ..
+//sube el directorio
+cd /
+//sube a la raiz del disco
+rm
+// elimina carpetas
+rm -r 
+//elimina carpetas y su contenido
