@@ -1,0 +1,103 @@
+commit 9d6939900a0b2071c824a6f57424c495775b78c1
+Author: Dante Osornio <cdmx2592@amerike.edu.mx>
+Date:   Tue Mar 12 11:11:06 2024 -0600
+
+    Agregando Pagina de practica 6
+
+commit fdf3530d130bc00fd412667af5ab6f0a0ceb002d
+Merge: 0631d45 1ee6922
+Author: Dante Osornio <cdmx2592@amerike.edu.mx>
+Date:   Tue Mar 12 10:11:13 2024 -0600
+
+    Merge branch 'js'
+
+commit 1ee6922e90bf87304804f919353b0e4b5c79041c
+Author: Dante Osornio <cdmx2592@amerike.edu.mx>
+Date:   Tue Mar 12 10:10:25 2024 -0600
+
+    añadi el mainjs
+
+commit 0631d45dfe3ac33db206ea0c403e4e5088ec209b
+Author: Dante Osornio <cdmx2592@amerike.edu.mx>
+Date:   Tue Mar 12 10:08:49 2024 -0600
+
+    hice bien el css
+
+commit b7837fbe39532de3c04c828b878d4717d766cb33
+Author: Dante Osornio <cdmx2592@amerike.edu.mx>
+Date:   Tue Mar 12 10:00:05 2024 -0600
+
+    merge de ccs y html
+
+commit 255961c6e45b822dc6640fe2f3f05e8da637a66b
+Merge: c4b978c 5599ddd
+Author: Dante Osornio <cdmx2592@amerike.edu.mx>
+Date:   Tue Mar 12 09:58:46 2024 -0600
+
+    Merge branch 'ccs'
+
+commit 5599ddd3279451a339de5e9c94b9ba9c55433998
+Author: Dante Osornio <cdmx2592@amerike.edu.mx>
+Date:   Tue Mar 12 09:45:42 2024 -0600
+
+    Añadiendo el stylieccs
+
+commit c4b978c8e9ae9ab9ec7e4ca12878f0f3cf66fe58
+Author: Dante Osornio <cdmx2592@amerike.edu.mx>
+Date:   Tue Mar 12 09:37:29 2024 -0600
+
+    Anadiedndo html
+
+commit f4ae4ccef36cdbe067549c7f0a2860e8fb9fe07f
+Author: Dante Osornio <cdmx2592@amerike.edu.mx>
+Date:   Wed Mar 6 18:20:30 2024 -0600
+
+    Movi el README
+
+commit 172e96ba3b65993b7c2b8fd65a623a75a9b22353
+Author: Dante Osornio <cdmx2592@amerike.edu.mx>
+Date:   Tue Mar 5 09:53:22 2024 -0600
+
+    Agregando enlace y contenido de la Práctica 5
+
+commit 75f236548d2fcbc5a7b847a9933337bedc4abddf
+Author: Dante Osornio <cdmx2592@amerike.edu.mx>
+Date:   Tue Mar 5 09:17:17 2024 -0600
+
+    Checando si funciona
+
+commit b1093c4cbf78053ddd60e682484e1d331270b344
+Author: Dante Osornio <cdmx2592@amerike.edu.mx>
+Date:   Tue Mar 5 09:16:29 2024 -0600
+
+    Checando si funciona
+
+commit bcde417a5d436e37351fc49749e97f6f7dbd4882
+Author: Dante Osornio <cdmx2592@amerike.edu.mx>
+Date:   Wed Feb 28 10:25:04 2024 -0600
+
+    Agregando enlace y contenido de la practica 3
+
+commit b2c0e7b1073c29ea83e0fb649032de6ba19d8c0a
+Author: Gumba117 <151477015+Gumba117@users.noreply.github.com>
+Date:   Wed Feb 28 10:21:21 2024 -0600
+
+    Agregando LICENSE.txt al repositorio
+
+commit 64bb2f0b948092aa5692630fd71a28cc00b9dd86
+Author: Dante Osornio <cdmx2592@amerike.edu.mx>
+Date:   Wed Feb 28 10:11:15 2024 -0600
+
+    Creando archivo gitignore
+
+commit 0743371c0dd92fef8a93155da7704478e0b09931
+Author: Dante Osornio <cdmx2592@amerike.edu.mx>
+Date:   Wed Feb 21 10:41:20 2024 -0600
+
+    Se agrego el readme
+
+commit 05124342443986480fc0f6ad27357571166f6d28
+Author: Dante Osornio <cdmx2592@amerike.edu.mx>
+Date:   Wed Feb 21 10:16:41 2024 -0600
+
+    Primer Cambio
